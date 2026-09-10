@@ -1,6 +1,6 @@
-﻿---
+---
 name: ayush-designs-skill
-description: Design and engineer high-craft, anti-slop SaaS landing pages and interactive marketing interfaces in the distinct Ayush design engineering aesthetic. Make sure to use this skill whenever the user asks to build, redesign, structure, or improve a SaaS landing page, marketing site, hero section, pricing page, feature showcase, or `/join` waitlist/onboarding route, or wants to implement interactive `motion/react` micro-illustrations, architectural breakout dividers, concentric border radius containers, or clean whitespace-first typography hierarchy.
+description: "Design and engineer high-craft, anti-slop SaaS landing pages and interactive marketing interfaces in the distinct Ayush design engineering aesthetic. Make sure to use this skill whenever the user asks to build, redesign, structure, or improve a SaaS landing page, marketing site, hero section, pricing page, feature showcase, or `/join` waitlist/onboarding route, or wants to implement interactive `motion/react` micro-illustrations, architectural breakout dividers, concentric border radius containers, or clean whitespace-first typography hierarchy."
 ---
 
 # Ayush Design Engineering System
